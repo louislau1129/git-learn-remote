@@ -1,2 +1,2 @@
 # git-learn-remote
-git-learn contact local-remote
+git-learn connect local-remote
